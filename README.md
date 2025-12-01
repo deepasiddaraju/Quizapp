@@ -32,12 +32,13 @@ git clone https://github.com/deepasiddaraju/Quizapp.git
 
 ### 🔄 Score Update
 ![Update Score](.vscode/screenshots/Updatescore.png)
-##Credits
-This project inspired by James Q Quick's Build a Quiz App
 
 ### 💬 Feedback Screen
 ![Feedback](.vscode/screenshots/Feedback.png)
 
 ### 🏁 End of Quiz
 ![End Quiz](.vscode/screenshots/Endquiz.png)
+##Credits
+This project inspired by James Q Quick's Build a Quiz App
+
 
