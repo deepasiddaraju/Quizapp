@@ -39,7 +39,6 @@ git clone https://github.com/deepasiddaraju/Quizapp.git
 ### 🏁 End of Quiz
 ![End Quiz](.vscode/screenshots/Endquiz.png)
 ## 🧠 Credits
-
 This project was inspired by [James Q Quick's Build a Quiz App](https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript).
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
