@@ -38,7 +38,7 @@ git clone https://github.com/deepasiddaraju/Quizapp.git
 
 ### 🏁 End of Quiz
 ![End Quiz](.vscode/screenshots/Endquiz.png)
-##Credits
+## Credits
 This project inspired by James Q Quick's Build a Quiz App
 
 
